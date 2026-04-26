@@ -7,8 +7,8 @@ HTML5
 CSS3 (Flexbox/Grid, responsive design)
 
 JavaScript (DOM manipulation, interactive elements)
-**
-✨ Features**
+
+✨ Features
 Responsive layout for desktop, tablet, and mobile devices
 
 Smooth scrolling and intuitive navigation
