@@ -1,4 +1,4 @@
-# Personal Portfolio-Website
+# Personal-Portfolio-Website
 A responsive multi-portfolio showcase website that displays four individual portfolios, each highlighting personal skills, projects, and contact information. Built with a focus on clean UI, smooth navigation, and cross-device compatibility.
 
 🔧 Technologies Used
